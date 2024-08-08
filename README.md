@@ -6,6 +6,7 @@ Duration:AUGUST 1st, 2024 to SEPTEMBER 1st
 Mentor:Muzammil Ahmed
 
 #Overview
+
 This Python program provides a basic Library Management System using Tkinter for the graphical user interface (GUI) and SQLite for the database. Here’s a summary of the key components:
 Code Breakdown
 1.Efficient Book Management:
